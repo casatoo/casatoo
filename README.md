@@ -1,7 +1,8 @@
-
-# Hi there 👋 i'm Min Sik
-## nice to meet you !
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kim%20Min%20Sik&fontSize=80)
 ---
+## Hi there 👋
+## nice to meet you !
+
 
 
 <!--
