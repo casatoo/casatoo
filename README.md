@@ -2,7 +2,8 @@
 ---
 ## Hi there 👋
 ## nice to meet you !
-
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=casatoo&show_icons=true&theme=onedark)
 
 
 <!--
