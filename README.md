@@ -1,7 +1,6 @@
 
-### Hi there 👋
-### i'm Min Sik
-### nice to meet you !
+# Hi there 👋 i'm Min Sik
+## nice to meet you !
 ---
 
 
