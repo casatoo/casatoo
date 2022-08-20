@@ -3,7 +3,8 @@
 ## Hi there 👋
 ## nice to meet you !
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=casatoo&show_icons=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casatoo&layout=compact&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=casatoo&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casatoo&layout=repocard&theme=great-gatsby)
 
 <!--
 **casatoo/casatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
