@@ -6,6 +6,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=casatoo&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=great-gatsby)
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <!--
 **casatoo/casatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
