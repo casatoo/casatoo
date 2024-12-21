@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kim%20Min%20Sik&fontSize=80)
 
 
-#### 👱‍ 안녕하세요 저는 김민식 이고 프로그래밍을 공부하고 있습니다.
+#### 🔧 매일 성장하는 솔루션 메이커.
 
 <a href="https://github.com/casatoo/codingTest" target="_blank">Docker 를 사용한 서버제작 프로젝트</a>
 
